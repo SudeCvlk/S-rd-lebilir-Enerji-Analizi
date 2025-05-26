@@ -1,4 +1,4 @@
-#Surdurulebilir-Enerji-Analizi-ve-Yatirim-Tahmini
+Surdurulebilir-Enerji-Analizi-ve-Yatirim-Tahmini
 
 Bu projede, ülkelerin enerji ve çevre göstergeleri kullanılarak sürdürülebilir enerji yatırımlarını ve karbon emisyonlarını analiz etmek ve tahmin etmek amaçlanmıştır. Python dilinde geliştirilen bu çalışma; veri temizleme, görselleştirme, regresyon ve sınıflandırma yöntemlerini içeren bir veri bilimi projesidir.
 Projenin amacı; CO₂ emisyonlarını eetkileyen temel faktörleri belirlemek, ülkeleri enerji tüketim profillerine göre incelemek, enerji yatırım seviyelerini sınıflandırmak ve tahmin etmektir. 
